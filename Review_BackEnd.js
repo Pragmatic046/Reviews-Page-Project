@@ -3,7 +3,7 @@ const reviews = [
         id: 1,
         name: "David Lopez",
         job: "Backend Developer",
-        img: "person-1.jpg",
+        img: "./Images/person-1.jpg",
         text: "I am a UX Designer and would like to craft something amazing that looks awsome to eyesight at every glimpse"
 
     },
@@ -11,7 +11,7 @@ const reviews = [
         id: 2,
         name: "Susan Smith",
         job: "Full Stack Developer",
-        img: "person-2.jpg",
+        img: "./Images/person-2.jpg",
         text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas, molestiae molestias odit libero dolore ipsam exercitationem iusto. Labore id expedita, dolor, sint totam consequatur deserunt reprehenderit molestiae suscipit quos omnis?"
 
     },
@@ -19,7 +19,7 @@ const reviews = [
         id: 3,
         name: "Samantha Brookes",
         job: "UI/UX Desiner",
-        img: "person-3.jpg",
+        img: "./Images/person-3.jpg",
         text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas, molestiae molestias odit libero dolore ipsam exercitationem iusto. Labore id expedita, dolor, sint totam consequatur deserunt reprehenderit molestiae suscipit quos omnis?"
 
     },
@@ -27,7 +27,7 @@ const reviews = [
         id: 4,
         name: "Naqeeb Asim",
         job: "Flutter Developer",
-        img: "person-5.jpg",
+        img: "./Images/person-5.jpg",
         text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas, molestiae molestias odit libero dolore ipsam exercitationem iusto. Labore id expedita, dolor, sint totam consequatur deserunt reprehenderit molestiae suscipit quos omnis?"
 
     }
